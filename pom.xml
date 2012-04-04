@@ -4,4 +4,17 @@
 	<groupId>com.george.jsf</groupId>
 	<artifactId>fatcow-hosting-icon</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+	<url>http://www.fatcow.com/free-icons</url>
+	<developers> 
+		<developer>
+			<id>gastaldi</id>
+			<name>George Gastaldi</name>
+			<email>gegastaldi@gmail.com</email>
+		</developer>
+	</developers>
+	<scm>
+		<connection>scm:git:git://github.com/gastaldi/fatcow-hosting-icon.git</connection>
+		<developerConnection>scm:git:git@github.com:gastaldi/fatcow-hosting-icon.git</developerConnection>
+		<url>http://github.com/gastaldi/fatcow-hosting-icon</url>
+	</scm>
 </project>

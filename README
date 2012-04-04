@@ -1,0 +1,5 @@
+This project contains 4800 icons from http://www.fatcow.com/free-icons.
+
+You may use it in a JSF 2.0+ application like the following: 
+
+<h:graphicImage library="fatcow-icon/32x32" name="yelp.png"/>
